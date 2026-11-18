@@ -1,53 +1,61 @@
- Hi, I'm Mohamed Ashraf 👋
+# Hi, I'm Mohamed Ashraf 👋
 
-Computer Science Student | Aspiring Cybersecurity Specialist
+### 💻 Computer Science Student | Aspiring Cybersecurity Specialist
 
-I'm a Computer Science student passionate about programming, technology, and problem-solving.
+Welcome to my GitHub profile!
 
-I'm currently developing my skills in software development, machine learning, and cybersecurity.
+I'm a Computer Science student interested in software development, machine learning, data analysis, and cybersecurity.
 
+I'm passionate about learning new technologies and building practical projects.
 
+---
 
-🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in Software Development
-- 🔐 Aspiring Cybersecurity Specialist
-- 🤖 Exploring Machine Learning and Artificial Intelligence
-- 🌱 Always learning and improving my programming skills
+- 💻 Learning Software Development
+- 🔐 Interested in Cybersecurity
+- 🤖 Exploring Machine Learning & Artificial Intelligence
+- 📊 Interested in Data Analysis
+- 🌱 Always learning and improving
 
+---
 
+## 🛠️ Programming Languages & Tools
 
- 🛠️ Technologies & Skills
+\<p>   \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" /> \</p>
 
-- **Programming Languages:** C++, Python
-- **Database:** SQL
-- **Fields of Interest:** Cybersecurity, Machine Learning, Data Analysis
+---
 
+## 🎯 Areas of Interest
 
+- Cybersecurity
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Software Development
 
- 📚 Currently Learning
+---
+
+## 📚 Currently Learning
 
 - Python Programming
 - Machine Learning Algorithms
 - Data Analysis
 - Cybersecurity Fundamentals
 
--
+---
 
-## 🎯 My Goals
+## 🚀 My Projects
 
-- Build practical software projects.
-- Improve my problem-solving skills.
-- Develop real-world Machine Learning applications.
-- Build a strong foundation in Cybersecurity.
+*I'm currently working on developing my practical programming projects. Stay tuned for updates!*
 
+---
 
+## 🤝 Connect With Me
 
-📫 Connect With Me
+\<p>   \<a href="[https://www.linkedin.com/in/mohamed-ashraf-600b91423/](https://www.linkedin.com/in/mohamed-ashraf-600b91423/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="[https://github.com/mohamed3shraf225-debug](https://github.com/mohamed3shraf225-debug)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)" />   \</a> \</p>
 
-- GitHub: https://github.com/mohamed3shraf225-debug
-- LinkedIn: https://www.linkedin.com/in/mohamed-ashraf-600b91423/
-
+---
 
 ⭐ Thanks for visiting my profile!
