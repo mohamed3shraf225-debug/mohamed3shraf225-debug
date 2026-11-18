@@ -23,7 +23,11 @@ I'm passionate about learning new technologies and building practical projects.
 
 ## 🛠️ Programming Languages & Tools
 
-\<p>   \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" /> \</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -48,13 +52,15 @@ I'm passionate about learning new technologies and building practical projects.
 
 ## 🚀 My Projects
 
-*I'm currently working on developing my practical programming projects. Stay tuned for updates!*
+I'm currently developing my practical programming projects. Stay tuned for updates!
 
 ---
 
 ## 🤝 Connect With Me
 
-\<p>   \<a href="[https://www.linkedin.com/in/mohamed-ashraf-600b91423/](https://www.linkedin.com/in/mohamed-ashraf-600b91423/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="[https://github.com/mohamed3shraf225-debug](https://github.com/mohamed3shraf225-debug)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)" />   \</a> \</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ashraf-600b91423/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mohamed3shraf225-debug)
 
 ---
 
